@@ -8,6 +8,5 @@
 * 우연히 서버 개발을 하게 되었다가 재밌어서 계속 공부하는 중
 * Spring, Java 공부 중
 
-### 사이트, 블로그
+### resume
 * notion : https://www.notion.so/09267ad39b54480da4fd1f6efc91c5f7
-* tistory : https://jaeesu.tistory.com/

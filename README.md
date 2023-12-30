@@ -5,6 +5,10 @@
 * 빗썸코리아 SRE Backend Developer (2022.06 ~ 2023.12)
 
 ### 📂 프로젝트
+* Tuthree (2021.09 ~ 2021.11)
+* GachonHub (2021.12 ~ 2022.02)
+* Amattang (아맞땅) (2022.03 ~ 2022.04)
+* Kicks (2022.04 ~ 2022.05)
 [역할]
 * DB, REST API 설계 및 구현
 * Github Actions, AWS CodeDeploy를 이용한 CI/CD 환경 구성

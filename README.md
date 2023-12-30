@@ -9,7 +9,7 @@
 * GachonHub (2021.12 ~ 2022.02)
 * Amattang (아맞땅) (2022.03 ~ 2022.04)
 * Kicks (2022.04 ~ 2022.05)
-  <br>
+<br>
 [역할]
 * DB, REST API 설계 및 구현
 * Github Actions, AWS CodeDeploy를 이용한 CI/CD 환경 구성
